@@ -14,8 +14,6 @@ Are you getting a black screen that pops up for a brief second? Try running with
 requirements:
 windows 10 (no mac, win 11 nothing! just windows 10)
 winver 1909 - 21h2 (to check type winver in the search bar and click the first one that pops up, then look at version, if its between winver 1909 - 21h2, your good!)
-hyper-v (Might have to enable through bios, otherwise check windows features by typing turn windows features on and off, then look for hyper v and tick it!)
-secure boot off (type system information in search bar, navigate to secure boto state, if this is on, then it needs to be off, to turn it off, search up how to turn off secure bot state on my bios)
 
 tutorial:
 download woofer.exe
