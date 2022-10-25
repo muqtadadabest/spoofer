@@ -1,4 +1,5 @@
-# spoofer
+# spoofer, also look at readme.md please
+
 USE AT YOUR OWN RISK!!!
 I AM NOT RESPONSIBLE FOR ANY DAMAGES TO YOUR PC!!!
 
